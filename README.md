@@ -1,7 +1,9 @@
 # Hi there, 👋
-### this is my dummy project for testing my Agentic AI to build app,tools and some playground 
+## Welcome to my seccond GitHub AI-profile!
 
-Welcome to my seccond GitHub AI-profile!
+this is my dummy project for testing my Agentic AI to build app,tools and some playground 
+
+
 <!--
 **ai-rsyd/ai-rsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
